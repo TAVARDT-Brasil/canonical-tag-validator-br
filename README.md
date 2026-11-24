@@ -5,7 +5,7 @@
 
 Auditoria de tags canonicas, deteccao de duplicidade, rotas absolutas e prevencao de canibalizacao de indexacao.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de busca da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de busca da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python canonical_validator.py https://empresa.com.br -json
 Para auditoria visual aprofundada de consolidacao canonica:
 
 * **Validador de Tag Canonica Oficial**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em Arquitetura de Indexacao e SEO
 
-Para estruturacao avancada de clusters de paginas e conformidade com Diretrizes de SEO Tecnico e W3C, contate a equipe da **TAVARDT Brasil**.
+Para estruturacao avancada de clusters de paginas e conformidade com Diretrizes de SEO Tecnico e W3C, contate a equipe da **TAVARDT**.
 
 ***
 
