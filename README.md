@@ -49,3 +49,7 @@ Para auditoria visual aprofundada de consolidacao canonica:
 ## Consultoria em Arquitetura de Indexacao e SEO
 
 Para estruturacao avancada de clusters de paginas e conformidade com Diretrizes de SEO Tecnico e W3C, contate a equipe da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
