@@ -1,14 +1,13 @@
 # Validador e Auditor de Tag Canonica e Consolidacao de URLs
 
 [![Validador Tag Canonica](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/br/validador-tag-canonica/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Brasil-00C853.svg)](https://ag.tavardt.com/br/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de tags canonicas, deteccao de duplicidade, rotas absolutas e prevencao de canibalizacao de indexacao.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de busca da **[TAVARDT Brasil](https://ag.tavardt.com/br/)**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de busca da **TAVARDT Brasil**.
 
----
+***
 
 ## Capacidades de Auditoria de Tag Canonica
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de arquitetura semantica e infraestrutura de
 * **Verificacao de Resposta do Destino**: Checa se a URL canonica de destino retorna codigo de status HTTP 200 OK, prevenindo apontamento para paginas 404, 301 ou 500.
 * **Indice de Consolidacao e Higiene de URL**: Pontuacao tecnica quantitativa de 0 a 100 com alertas classificados por severidade.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python canonical_validator.py https://empresa.com.br
 Para gerar a saida em formato estruturado JSON para esteiras de integracao continua:
 
 ```bash
-python canonical_validator.py https://empresa.com.br --json
+python canonical_validator.py https://empresa.com.br -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para auditoria visual aprofundada de consolidacao canonica:
 
-* **[Validador de Tag Canonica Oficial](https://tools.tavardt.com/br/validador-tag-canonica/)**
+* **Validador de Tag Canonica Oficial**
 * **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
 
----
+***
 
 ## Consultoria em Arquitetura de Indexacao e SEO
 
-Para estruturacao avancada de clusters de paginas e conformidade com Diretrizes de SEO Tecnico e W3C, contate a equipe da **[TAVARDT Brasil](https://ag.tavardt.com/br/contato/)**.
+Para estruturacao avancada de clusters de paginas e conformidade com Diretrizes de SEO Tecnico e W3C, contate a equipe da **TAVARDT Brasil**.
